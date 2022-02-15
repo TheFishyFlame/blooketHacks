@@ -1,0 +1,2 @@
+# blooketHacks
+hacks for blooket
